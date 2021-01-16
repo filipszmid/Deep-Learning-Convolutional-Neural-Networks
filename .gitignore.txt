@@ -1,2 +1,3 @@
 convent-course-master/
+convent-course-master/*
 data/
